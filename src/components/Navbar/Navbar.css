@@ -57,6 +57,7 @@
 	width: 1px;
 	height: 30px;
 	background: var(--color-grey);
+	margin: 0 5px;
 }
 
 /* Small Screen */
