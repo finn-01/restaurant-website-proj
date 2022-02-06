@@ -67,6 +67,10 @@
 	cursor: pointer;
 }
 
+.custom__button:hover {
+	opacity: 80%;
+}
+
 .p__cormorant {
 	font-family: var(--font-base);
 	color: var(--color-white);
